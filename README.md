@@ -36,7 +36,8 @@ src/
 │  └─ medical_saver.cpp  # PGM writer
 ├─ encode_main.cpp
 ├─ decode_main.cpp
-└─ evaluate.cpp         
+└─ evaluate.cpp 
+```        
 ---
 
 ## Codec Design
